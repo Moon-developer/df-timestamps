@@ -1,5 +1,5 @@
 # df-timestamps
-Digital Forensic tool to decode hex timestamps (in-progress)
+Digital Forensic tool to decode timestamps (in-progress)
 
 ## About
 
